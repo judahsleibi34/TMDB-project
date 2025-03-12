@@ -28,6 +28,10 @@ budget_adj: Budget adjusted for inflation.
 revenue_adj: Revenue adjusted for inflation.
 
 ## Conclusion:
-1. A high budget does not guarantee the highest financial return.
-2. There is a weak positive correlation between movie runtime and financial return.
-3. The dataset size was reduced from 1.7+ MB to 1.3+ MB after preprocessing.
+1. High cost does not insure the highest Financial return.
+2. The dataset contains null values and outliers all been dropped. 
+3. There is a weak positive coloration between movie time Financial return.
+4. Dataset size reduced from 1.7+ MB to 1.2+ MB.
+5. The duplication can't be taken as indicator because the data can overlap due to similarity in naming.
+6. The study used the histogram to understand the distribution of the data to apply early detection of outliers and the heat map to understand the coloration.
+7. The shape changed from _(10866, 21)_ to _(9882, 21)_
