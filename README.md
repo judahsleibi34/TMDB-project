@@ -70,13 +70,13 @@ Statistical Analysis: Correlation analysis and descriptive statistics.
 ## Repository Structure
 Copy
 tmdb-movie-analysis/
-├── data/                    # Folder containing the dataset
-│   └── tmdb_movies.csv      # Original dataset
-├── notebooks/               # Jupyter notebooks for analysis
-│   └── tmdb_analysis.ipynb  # Main analysis notebook
-├── README.md                # Project overview (this file)
-├── requirements.txt         # List of dependencies
-└── visuals/                 # Folder for saving visualizations
-    ├── histograms/          # Histogram plots
-    ├── heatmaps/            # Heatmap plots
-    └── scatter_plots/       # Scatter plots
+├── data/                    
+│   └── tmdb_movies.csv      
+├── notebooks/              
+│   └── tmdb_analysis.ipynb  
+├── README.md                
+├── requirements.txt        
+└── visuals/                 
+    ├── histograms/         
+    ├── heatmaps/            
+    └── scatter_plots/      
